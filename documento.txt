@@ -1,0 +1,6 @@
+hoooolaaa!!!! 
+123
+-m  = es un mensaje 
+buscar que añadir al comid 
+git ini: para convertir en repositorio 
+git add: para añadir un archivo al repositorio
